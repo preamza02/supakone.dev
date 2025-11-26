@@ -3,6 +3,7 @@ title: Software Engineer
 description: All the work Related to Software Engineer of Supakone Kongprapan
 sidebar:
     order: 2
+lastUpdated: 2024-11-25
 ---
  
 Software engineering is my main profession and where I spend most of my working hours.

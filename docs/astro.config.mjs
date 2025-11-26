@@ -73,34 +73,15 @@ export default defineConfig({
               ],
             },
             {
-              label: 'Docs (WIP)',
+              label: 'Docs',
               icon: 'document',
               link: '/docs/',
               items: [
                 {
-                  label: 'Getting Started',
+                  label: 'Supakone.dev',
                   items: ['docs']
-                },
-                {
-                  label: "Design",
-                  autogenerate: { directory: 'docs/design' },
                 }
               ]
-            },
-            {
-              label: 'Mission (WIP)',
-              icon: 'star',
-              link: '/missions/',
-              items: [
-                {
-                  label: 'Getting Started',
-                  autogenerate: { directory: 'missions' },
-                },
-                {
-                  label: "History",
-                  autogenerate: { directory: 'missions/history' },
-                }
-              ],
             }
           ],
           {

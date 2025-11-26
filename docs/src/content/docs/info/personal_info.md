@@ -1,6 +1,7 @@
 ---
 title: Personal information
 description: Personal Information about Supakone Kongprapan
+lastUpdated: 2024-11-25
 ---
 
 ## Who Actually is Supakone Kongprapan?
