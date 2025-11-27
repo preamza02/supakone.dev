@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 import starlightBlog from 'starlight-blog'
 import starlightSidebarTopics from 'starlight-sidebar-topics'
 import { SITE_TITLE, URL } from './src/const/const';
+import rehypeMermaid from 'rehype-mermaid';
 
 
 // https://astro.build/config
@@ -78,8 +79,8 @@ export default defineConfig({
               link: '/docs/',
               items: [
                 {
-                  label: 'Supakone.dev',
-                  items: ['docs']
+                  label: 'Supakone.me',
+                  items: ['docs','docs/implementation','docs/roadmap'],
                 }
               ]
             }
@@ -91,4 +92,7 @@ export default defineConfig({
       ],
     }),
   ],
+  markdown: {
+    rehypePlugins: [rehypeMermaid],
+  }
 });

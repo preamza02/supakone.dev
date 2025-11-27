@@ -45,12 +45,12 @@ I myself like other fellow software engineer we rarely finish our side project a
 - **Documents**: [Finsim Docs](/docs/finsim)
 - **Why It worth mentioning**: This project help solve my own problem that I think the existing product in the market is not good enough. I build this project to help myself and other people to better understand their personal finance (for free I hope). I will also over engineer this project to be the best software that I can build at that time.
 
-### Supakone.dev - Personal Website
+### Supakone.me - Personal Website
 - **Description**: This very website that you are reading right now. I built this website to be all-in-one personal website that can serve multiple purpose such as portfolio, blog, documentation site for my open source projects.
 - **Technologies Used**: Astro (with starlight), MD/MDX, Github Action 
-- **Source Code**: [GitHub Repository](https://github.com/preamza02/supakone.dev)
-- **Document** : [Supakone.dev Docs](/docs)
-- **Why It worth mentioning**: This website have real use case apart from being my personal website. This website also serve as documentation site for my other open source project and my blog. I also document my journey on building this website on [Supakone.dev Docs](/docs). So This website can is the example of how all-in-one personal website can be done effectively.
+- **Source Code**: [GitHub Repository](https://github.com/preamza02/supakone.me)
+- **Document** : [Supakone.me Docs](/docs)
+- **Why It worth mentioning**: This website have real use case apart from being my personal website. This website also serve as documentation site for my other open source project and my blog. I also document my journey on building this website on [Supakone.me Docs](/docs). So This website can is the example of how all-in-one personal website can be done effectively.
 
 ## Open-source contributions
 
