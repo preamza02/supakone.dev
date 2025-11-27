@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 import starlightBlog from 'starlight-blog'
 import starlightSidebarTopics from 'starlight-sidebar-topics'
 import { SITE_TITLE, URL } from './src/const/const';
+import rehypeMermaid from 'rehype-mermaid';
 
 
 // https://astro.build/config
@@ -73,34 +74,15 @@ export default defineConfig({
               ],
             },
             {
-              label: 'Docs (WIP)',
+              label: 'Docs',
               icon: 'document',
               link: '/docs/',
               items: [
                 {
-                  label: 'Getting Started',
-                  items: ['docs']
-                },
-                {
-                  label: "Design",
-                  autogenerate: { directory: 'docs/design' },
+                  label: 'Supakone.me',
+                  items: ['docs','docs/implementation','docs/roadmap'],
                 }
               ]
-            },
-            {
-              label: 'Mission (WIP)',
-              icon: 'star',
-              link: '/missions/',
-              items: [
-                {
-                  label: 'Getting Started',
-                  autogenerate: { directory: 'missions' },
-                },
-                {
-                  label: "History",
-                  autogenerate: { directory: 'missions/history' },
-                }
-              ],
             }
           ],
           {
@@ -110,4 +92,7 @@ export default defineConfig({
       ],
     }),
   ],
+  markdown: {
+    rehypePlugins: [rehypeMermaid],
+  }
 });
