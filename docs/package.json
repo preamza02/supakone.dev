@@ -6,15 +6,29 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "preview": "wrangler pages dev dist",
+    "check": "astro check",
+    "format": "prettier --write .",
+    "astro": "astro",
+    "prepare": "cd .. && husky docs/.husky"
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/starlight": "^0.36.2",
     "astro": "^5.6.1",
     "rehype-mermaid": "^3.0.0",
     "sharp": "^0.34.2",
     "starlight-blog": "^0.25.0",
-    "starlight-sidebar-topics": "^0.6.2"
+    "starlight-sidebar-topics": "^0.6.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "playwright": "^1.57.0",
+    "prettier": "^3.7.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "wrangler": "^4.51.0"
   }
 }
