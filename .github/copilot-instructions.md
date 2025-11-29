@@ -176,3 +176,6 @@ These instructions have been validated. Only search for additional information i
 - The instructions appear incomplete for your specific task
 - A command fails unexpectedly
 - You need to modify a file not covered here
+
+## Update Project Instructions and Documentation
+If you made a modification that affect project structure, the way that the project is being documented or the way that the project is being build/tested/deployed please make sure to update this instruction file and other relevant documentation file such as `README.md` or other documentation page inside `docs/src/content/docs/` folder.
