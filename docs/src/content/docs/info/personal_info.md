@@ -1,46 +1,116 @@
 ---
-title: Personal information
+title: Personal Information
 description: Personal Information about Supakone Kongprapan
-lastUpdated: 2024-11-25
+lastUpdated: 2025-11-29
+sidebar:
+    order: 1
 ---
 
-## Who Actually is Supakone Kongprapan?
+## About Me
 
 Supakone is a passionate software developer and technology enthusiast.
-He fell in love with the technology when he can use open source software for free.
+He fell in love with technology when he discovered the power of open source software and its accessibility.
 
 <!-- TODO: add real image later -->
 
-## Personal Information
+### Personal Details
 
-- **Full name:** Supakone Kongprapan
+- **Full Name:** Supakone Kongprapan
 - **Nickname:** Prame
-- **Birth year:** 2002
+- **Birth Year:** 2002
 - **Nationality:** Thai
-- **Location:** Bangkok, Thailand (But open to remote work worldwide)
+- **Location:** Bangkok, Thailand (Open to remote work worldwide)
 - **Languages:** Thai (Native), English (Professional Working Proficiency)
 
-## Education
+### Education
 
 - 2017–2021: SMTE Program, Piriyalai School Phrae
 - 2021–2024: Bachelor of Engineering in Computer Engineering, Chulalongkorn University
 
+---
+
+## Contact Information
+
+Feel free to reach out for professional inquiries, collaboration opportunities, or just to say hello!
+
+- **Email:** [supakone.kongprapan@gmail.com](mailto:supakone.kongprapan@gmail.com)
+
+---
+
+## Social Media Links
+
+Stay connected and follow my journey:
+
+| Platform | Link | Description |
+|----------|------|-------------|
+| GitHub | [preamza02](https://github.com/preamza02) | My open source projects and contributions |
+| LinkedIn | [Supakone Kongprapan](https://www.linkedin.com/in/supakone-kongprapan/) | Professional networking and career updates |
+| Twitter/X | [@preamza02](https://twitter.com/preamza02) | Tech thoughts and daily updates |
+| YouTube | [Sukong Something](https://www.youtube.com/@supakonedev) | Tech tutorials and vlogs |
+
+---
+
+## Mission Statement
+
+> **My mission is to build impactful software that solves real-world problems while contributing to the open source community and sharing knowledge with fellow developers.**
+
+I believe that technology should be accessible to everyone. Through my work and content creation, I aim to:
+
+- Create high-quality, well-documented open source software
+- Share knowledge through blog posts, videos, and documentation
+- Help others learn and grow in their software engineering journey
+- Build tools that improve developer productivity
+
+---
+
+## Current Goals
+
+Here are my current goals and their progress:
+
+### 🎯 Professional Goals
+
+| Goal | Status | Target Date | Progress |
+|------|--------|-------------|----------|
+| <!-- [FILL: Goal 1 - e.g., Master Rust programming] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+| <!-- [FILL: Goal 2 - e.g., Contribute to 5 open source projects] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+| <!-- [FILL: Goal 3] --> | <!-- [FILL: Status] --> | <!-- [FILL: Target Date] --> | <!-- [FILL: Progress %] --> |
+
+### 📚 Learning Goals
+
+| Goal | Status | Target Date | Progress |
+|------|--------|-------------|----------|
+| <!-- [FILL: Learning Goal 1 - e.g., Complete AWS certification] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+| <!-- [FILL: Learning Goal 2 - e.g., Learn Kubernetes in depth] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+
+### 💪 Personal Goals
+
+| Goal | Status | Target Date | Progress |
+|------|--------|-------------|----------|
+| <!-- [FILL: Personal Goal 1 - e.g., Read 12 books this year] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+| <!-- [FILL: Personal Goal 2 - e.g., Maintain consistent workout routine] --> | <!-- [FILL: In Progress/Completed/Not Started] --> | <!-- [FILL: YYYY-MM] --> | <!-- [FILL: Progress %] --> |
+
+---
+
 ## Hobbies and Interests
 
-- I love to explore new technologies especially in coding productivity tools.
-- I am also a regular gym-goer who enjoys staying fit and healthy.
-- I try to write a blog posts about technology and personal development on my [personal blog](/blog)
+- I love exploring new technologies, especially coding productivity tools.
+- I am a regular gym-goer who enjoys staying fit and healthy.
+- I write blog posts about technology and personal development on my [personal blog](/blog).
+
+---
 
 ## Favorite Things
 
 - **Food:** Steak, fried chicken, and anything my girlfriend likes (she has great taste)
 - **Restaurant:** The 3rd restaurant in Chula dormitory called "bowvy ju", and any restaurant my girlfriend picks (she really has good taste)
-- **Music genres:** Thai country (e.g., Kon La Fun / Carabao), Cocktail (band)
-- **Programming languages:** Go, Rust
-- **Code editor:** Neovim (I use VSCode for daily work)
-- **Operating system:** Linux (Arch Linux)
-- **Public company:** Google
+- **Music Genres:** Thai country (e.g., Kon La Fun / Carabao), Cocktail (band)
+- **Programming Languages:** Go, Rust
+- **Code Editor:** Neovim (I use VSCode for daily work)
+- **Operating System:** Linux (Arch Linux)
+- **Public Company:** Google
 - **Items:** Bitcoin
+
+---
 
 ## Notable Achievements
 
