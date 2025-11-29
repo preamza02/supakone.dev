@@ -1,4 +1,4 @@
-import { z, defineCollection } from "astro:content";
+import { defineCollection } from "astro:content";
 import { docsLoader } from "@astrojs/starlight/loaders";
 import { docsSchema } from "@astrojs/starlight/schema";
 import { blogSchema } from "starlight-blog/schema";
