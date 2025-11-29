@@ -1,11 +1,11 @@
-name: Pull Request Preview to Cloudflare
+name: PR Build and Test
 
 on:
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
 
 jobs:
-  deploy-preview:
+  build-and-test:
     if: github.event.pull_request.draft == false
     runs-on: ubuntu-latest
     permissions:
@@ -44,14 +44,3 @@ jobs:
         run: |
           cd docs
           pnpm run test
-                    
-        # Uncomment the following lines to enable deployment to Cloudflare Pages In the Future (Because I am using free version, I will not enable this for now)
-
-    #   - name: Deploy to Cloudflare Pages
-    #     uses: cloudflare/pages-action@v1
-    #     with:
-    #       apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-    #       accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-    #       projectName: supakone-me
-    #       directory: docs/dist
-    #       gitHubToken: ${{ secrets.GITHUB_TOKEN }}
