@@ -75,7 +75,6 @@ These are the stories I'm actively living:
 
 3. **Building My Brand:** I'm creating my personal brand through this blog and website. Future plans include a YouTube channel documenting my journey, and expanding to Facebook, Instagram, TikTok, Twitter, and Daily.dev.
 
-
 ---
 
 ### Current Challenges
@@ -146,5 +145,5 @@ Feel free to reach out for professional inquiries, collaboration opportunities, 
 | Email     | [supakone.kongprapan@gmail.com](mailto:supakone.kongprapan@gmail.com)   | Professional inquiries                     |
 | GitHub    | [preamza02](https://github.com/preamza02)                               | Open source projects and contributions     |
 | LinkedIn  | [Supakone Kongprapan](https://www.linkedin.com/in/supakone-kongprapan/) | Professional networking and career updates |
-| Twitter/X | [@spk_kpp](https://x.com/spk_kpp)                             | Tech thoughts and daily updates            |
-| YouTube   | [Sukong Something](https://www.youtube.com/@SukongSomething)                | Tech tutorials and vlogs                   |
+| Twitter/X | [@spk_kpp](https://x.com/spk_kpp)                                       | Tech thoughts and daily updates            |
+| YouTube   | [Sukong Something](https://www.youtube.com/@SukongSomething)            | Tech tutorials and vlogs                   |
