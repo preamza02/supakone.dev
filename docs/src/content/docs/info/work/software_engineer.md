@@ -30,10 +30,16 @@ I have worked in several software engineering roles, mostly focused on backend d
 ### Non‑full‑time experience
 
 - **Software Developer (Part-time)** at AthenaAI — _Feb 2024 – May 2025_
-  - **What I did:** (add details)
+  - **What I did:**
+    - Designed and implemented an entire report generator application with full-stack capabilities using Vanilla JS and FastAPI.
+    - Developed and maintained the core web application using jQuery, Vue.js, Jinja2, and FastAPI.
+    - Maintained the quality of the production application using Docker, Linux, and Git.
 
 - **Software Engineer Intern** at KKP Dime — _June 2024 – July 2024_
-  - **What I did:** (add details)
+  - **What I did:**
+    - Developed backend stock-related services with microservice architecture using Golang, Gin, RabbitMQ, and Redis.
+    - Maintained quality of projects with intensive Unit, Integration, and End-to-End testing.
+    - Implemented cron jobs using Apache Airflow and Python.
 
 ## Projects
 
