@@ -71,6 +71,7 @@ jobs:
           cache-dependency-path: docs/pnpm-lock.yaml
 
       - name: Install Dependencies
+        # Note: Playwright not installed since E2E tests are skipped for production deployment
         run: |
           cd docs
           pnpm install
