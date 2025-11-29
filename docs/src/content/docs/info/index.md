@@ -15,8 +15,12 @@ Supakone Kongprapan is a Software Engineer Specialized in web backend developmen
 
 ## Contact Information
 
-- For professional inquiries, you can reach him via email: supakone.kongprapan@gmail.com
-- Watch his journey on YouTube: [Sukong Something](https://www.youtube.com/@supakonedev)
-- Follow him on Twitter: [@preamza02](https://twitter.com/preamza02)
-- Connect on LinkedIn: [Supakone Kongprapan](https://www.linkedin.com/in/supakone-kongprapan/)
-- Check out his GitHub profile: [preamza02](https://github.com/preamza02)
+Feel free to reach out for professional inquiries, collaboration opportunities, or just to say hello!
+
+| Platform  | Link                                                                    | Description                                |
+| --------- | ----------------------------------------------------------------------- | ------------------------------------------ |
+| Email     | [supakone.kongprapan@gmail.com](mailto:supakone.kongprapan@gmail.com)   | Professional inquiries                     |
+| GitHub    | [preamza02](https://github.com/preamza02)                               | Open source projects and contributions     |
+| LinkedIn  | [Supakone Kongprapan](https://www.linkedin.com/in/supakone-kongprapan/) | Professional networking and career updates |
+| Twitter/X | [@spk_kpp](https://x.com/spk_kpp)                                       | Tech thoughts and daily updates            |
+| YouTube   | [Sukong Something](https://www.youtube.com/@SukongSomething)            | Tech tutorials and vlogs                   |
