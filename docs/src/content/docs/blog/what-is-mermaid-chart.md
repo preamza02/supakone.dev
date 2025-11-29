@@ -42,7 +42,7 @@ sequenceDiagram
     participant User
     participant Server
     participant Database
-    
+
     User->>Server: Request Data
     Server->>Database: Query
     Database-->>Server: Results
